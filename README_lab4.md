@@ -61,3 +61,4 @@ Este desafio tem como propósito:
 - 📍 Rio de Janeiro, Brasil  
 
 ---
+👉 Este arquivo (`README_lab4.md`) consolida os desafios anteriores e reforça meu protagonismo na construção de um **portfólio técnico na DIO** durante a preparação para a certificação **AZ-900**.
